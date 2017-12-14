@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: nrf52832_qfaa.PcbDoc   26.05.2015  14:07:10
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : nrf52832_qfax.TXT
+EIA File   : nrf52832_qfax.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          34               3.24 Inch (82.35 mm)
+T2        13mil (0.3302mm)         Round          16               0.71 Inch (18.00 mm)
+---------------------------------------------------------------------------
+Totals                                            50               3.95 Inch (100.35 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

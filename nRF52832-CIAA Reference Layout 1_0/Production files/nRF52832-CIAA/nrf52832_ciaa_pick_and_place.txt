@@ -1,0 +1,18 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+X2         XTAL_2012              134mil         -5mil        134mil         -5mil    105.457mil         -5mil  T        360.00 32.768kHz      
+U1         BGA50C40P7X8_295X322X50          0mil          0mil          0mil          0mil    -47.244mil     55.118mil  T          0.00 nRF52832-CIAA  
+C10        CAPC0603X03L           137mil        -68mil        137mil        -68mil        137mil    -81.779mil  T         90.00 12pF           
+C1         CAPC0603X03L          -175mil        163mil       -175mil        163mil       -175mil     176.78mil  T        270.00 12pF           
+C2         CAPC0603X03L          -111mil        219mil       -111mil        219mil   -124.779mil        219mil  T        360.00 12pF           
+C9         CAPC1005X04L            41mil        124mil         41mil        124mil         41mil    143.685mil  T        270.00 1.0µF          
+C8         CAPC1608X06L           146mil         92mil        146mil         92mil    119.425mil         92mil  T        360.00 4.7µF          
+C11        CAPC0603X03L           165mil        -68mil        165mil        -68mil        165mil    -81.779mil  T         90.00 12pF           
+X1         BT-XTAL_2016          -112mil        164mil       -112mil        164mil   -140.543mil    141.362mil  T          0.00 32MHz          
+C4         CAPC0603X03L           146mil         56mil        146mil         56mil     132.22mil         56mil  T          0.00 100nF          
+C5         CAPC0603X03L        57.874mil    -91.874mil     57.874mil    -91.874mil     44.094mil    -91.874mil  T        360.00 100nF          
+L1         INDC0603X03L      -118.627mil    -36.743mil   -118.624mil     -36.74mil   -104.848mil    -36.743mil  T        180.00 3.3nH          
+C6         CAPC0603X03L           -40mil        117mil        -40mil        117mil        -40mil     130.78mil  T        270.00 100pF          
+C3         CAPC0603X03L      -125.624mil       9.26mil   -125.624mil       9.26mil   -111.844mil       9.26mil  T        180.00 1.0pF          
+C7         CAPC0603X03L          -138mil         64mil       -138mil         64mil   -124.221mil         64mil  T        180.00 100pF          
+

@@ -1,0 +1,19 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C10        CAPC1608X06L           -98mil        167mil        -98mil        167mil   -124.575mil        167mil  T        360.00 1.0µF          
+C11        CAPC1005X04L          -238mil         18mil       -238mil         18mil       -238mil     37.685mil  T        270.00 12pF           
+C12        CAPC1005X04L          -294mil       -106mil       -294mil       -106mil   -274.315mil       -106mil  T        180.00 12pF           
+X2         XTAL_3215             -294mil        -15mil       -294mil        -15mil       -294mil     34.212mil  T        270.00 32.768kHz      
+C3         CAPC1005X04L           165mil          0mil        165mil          0mil        165mil     19.685mil  T        270.00 0.8pF          
+L1         INDC1005X04L           221mil        -20mil        221mil        -20mil    202.299mil        -20mil  T        360.00 3.9nH          
+U1         QFN40P600X600X90-48N          0mil          0mil          0mil          0mil   -119.094mil     86.614mil  T        360.00 nRF52832-QFAA  
+C2         CAPC1005X04L           157mil        181mil        157mil        181mil        157mil    161.315mil  T         90.00 12pF           
+C6         CAPC1005X04L           208mil         68mil        208mil         68mil    227.685mil         68mil  T        180.00 100pF          
+C9         CAPC1608X06L          -210mil        115mil       -210mil        115mil   -183.425mil        115mil  T        180.00 4.7µF          
+C8         CAPC1005X04L           122mil        181mil        122mil        181mil        122mil    161.315mil  T         90.00 100nF          
+X1         BT-XTAL_2016           227mil        181mil        227mil        181mil    255.543mil    203.638mil  T        180.00 32MHz          
+C1         CAPC1005X04L           297mil        181mil        297mil        181mil        297mil    200.685mil  T        270.00 12pF           
+C7         CAPC1005X04L           208mil        103mil        208mil        103mil    188.315mil        103mil  T        360.00 100pF          
+C5         CAPC1005X04L          -112mil       -161mil       -112mil       -161mil    -92.315mil       -161mil  T        180.00 100nF          
+C4         CAPC1005X04L          -210mil         74mil       -210mil         74mil   -190.315mil         74mil  T        180.00 100nF          
+
